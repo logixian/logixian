@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently exploring ETH
+- 🌱 I'm learning Solidity
+- 👀 I’m interested in ZK-Rollups
+- 💬 Ask me about applied machine learning, product data science 
+- 💞️ I’m looking to collaborate on opensource ethereum projects
+
 <!--
 **logixian/logixian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
