@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently exploring ethereum virtual machine
+- 🔭 I’m currently exploring the Ethereum Virtual Machine
 - 🌱 I'm learning how dapps, smart contracts work 
 - 👀 I’m interested in Proof of Stake, ZK-Rollups
 - 💬 Ask me about (past experience): applied machine learning, product data science 
