@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently exploring ETH
-- 🌱 I'm learning Solidity
-- 👀 I’m interested in ZK-Rollups
-- 💬 Ask me about applied machine learning, product data science 
+- 🔭 I’m currently exploring ethereum based projects
+- 🌱 I'm learning how dapps, smart contracts work 
+- 👀 I’m interested in Proof of Stake, ZK-Rollups
+- 💬 Ask me about (past experience): applied machine learning, product data science 
 - 💞️ I’m looking to collaborate on opensource ethereum projects
 
 <!--
