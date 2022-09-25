@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently exploring the Ethereum Virtual Machine
-- 🌱 I'm learning how dapps, smart contracts work 
+- 🔭 I’m currently exploring the Ethereum protocol
+- 🌱 I'm learning how to analyze on-chain data
 - 👀 I’m interested in Proof of Stake, ZK-Rollups
 - 💬 Ask me about (past experience): applied machine learning, product data science 
 - 💞️ I’m looking to collaborate on opensource ethereum projects
