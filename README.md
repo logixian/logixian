@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently exploring the Ethereum protocol
-- 🌱 I'm learning how to analyze on-chain data
-- 👀 I’m interested in Proof of Stake, ZK-Rollups
+- 🔭 I’m currently learning the fundamentals of Ethereum proof of stake (PoS) algorithm
+- 🌱 I’m currently working on building a framework to analyze on-chain data
+- 👀 I’m interested in MEV, L2 rollups, zero-knowledge proof 
 - 💬 Ask me about (past experience): applied machine learning, product data science 
 - 💞️ I’m looking to collaborate on opensource ethereum projects
 
