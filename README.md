@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 - 🔭 I’m currently learning the fundamentals of Ethereum proof of stake (PoS) algorithm
-- 🌱 I’m working on building a framework to analyze on-chain PoS data
-- 👀 I’m interested in MEV, L2 rollups, zero-knowledge proof 
+- 🌱 I’m working on a framework to analyze on-chain(PoS) data
+- 👀 I’m interested in MEV inspection, Data Availability, L2 rollups and zero-knowledge proofs 
 - 💬 Ask me about (past experience): applied machine learning, product data science 
-- 💞️ I’m looking to collaborate on opensource ethereum projects
+- 💞️ I’m looking to collaborate on opensource Ethereum projects
 
 <!--
 **logixian/logixian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
