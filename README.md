@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently learning the fundamentals P2P networking stack (libp2p) and Zero-Knowledge Proofs (tinkering with StarkNet / Cairo) 
 - 🌱 I’m working on a framework to analyze Ethereum (PoS) data: on-chain analysis, p2p analysis, MEV inspection
-- 👀 I’m interested in Data Availability, L2 Rollups and Zero-Knowledge Proofs (tinkering with StarkNet / Cairo) 
+- 👀 I’m interested in Data Availability, Restaking, L2 Rollups and Zero-Knowledge Proofs
 - 💬 Ask me about (past experience): applied machine learning, product data science 
 - 💞️ I’m looking to collaborate on opensource Ethereum projects
 
