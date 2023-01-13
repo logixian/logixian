@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently learning the fundamentals of Ethereum proof of stake (PoS) algorithm and P2P distributed systems
-- 🌱 I’m working on a framework to analyze on-chain (PoS) data: chain analysis, p2p analysis, MEV inspection
+- 🔭 I’m currently learning the fundamentals P2P distributed systems
+- 🌱 I’m working on a framework to analyze Ethereum (PoS) data: on-chain analysis, p2p analysis, MEV inspection
 - 👀 I’m interested in Data Availability, L2 Rollups and Zero-Knowledge Proofs (tinkering with StarkNet / Cairo) 
 - 💬 Ask me about (past experience): applied machine learning, product data science 
 - 💞️ I’m looking to collaborate on opensource Ethereum projects
