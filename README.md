@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently learning the fundamentals P2P distributed systems
+- 🔭 I’m currently learning the fundamentals P2P distributed systems (libp2p) and Zero-Knowledge Proofs (tinkering with StarkNet / Cairo) 
 - 🌱 I’m working on a framework to analyze Ethereum (PoS) data: on-chain analysis, p2p analysis, MEV inspection
 - 👀 I’m interested in Data Availability, L2 Rollups and Zero-Knowledge Proofs (tinkering with StarkNet / Cairo) 
 - 💬 Ask me about (past experience): applied machine learning, product data science 
