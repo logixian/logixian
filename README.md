@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently learning the fundamentals P2P networking stack (libp2p) and Zero-Knowledge Proofs (tinkering with StarkNet / Cairo) 
-- 🌱 I’m working on a framework to analyze Ethereum (PoS) data: on-chain analysis, p2p analysis, MEV inspection
+- 🔭 I’m currently learning the fundamentals Cryptography (Discrete Logarithms, Bilinear Pairings, ECC, ECDSA) and Zero-Knowledge Proofs (ZK-SNARKs - PLONK, STARK - FRI, Linear PCPs, Recursive SNARKs). Practicing zk-circuits using Circom, halo2.  
+- 🌱 I run an ETH node and building a query engine to analyze Ethereum (PoS) on-chain data
 - 👀 I’m interested in Data Availability, Restaking, L2 Rollups and Zero-Knowledge Proofs
 - 💬 Ask me about (past experience): applied machine learning, product data science 
-- 💞️ I’m looking to collaborate on opensource Ethereum projects
+- 💞️ I’m looking to collaborate on opensource Ethereum projects 
 
 <!--
 **logixian/logixian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
