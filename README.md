@@ -1,17 +1,18 @@
 ### Hi there 👋
 
-- 🔭 I’m currently revising the fundamentals:
+- 🔭 I’m currently learning the fundamentals,
   - Cryptography
     - Discrete Logarithms
     - Bilinear Pairings
     - ECC 
     - ECDSA
+  - Implementing the above primitives in go and rust
   - Zero-Knowledge Proofs
     - ZK-SNARKs: PLONK
     - STARK: FRI
     - Linear PCPs
     - Recursive SNARKs
-  - Practicing zk-circuits for cryptographic primitives using Circom, halo2
+  - Practicing zk-circuits for cryptographic primitives using Circom, gnark and halo2 and benchmarking them
 - 🌱 I run an ETH node
 - 🌱 I am building a query engine to analyze Ethereum (PoS) on-chain data
 - 👀 I’m interested in 
