@@ -20,7 +20,7 @@
   - Restaking
   - L2 Rollups 
   - Zero-Knowledge Proofs
-- 💬 Ask me about (past experience): 
+- 💬 Ask me about (past experience),
   - applied machine learning
   - product data science 
 - 💞️ I’m looking to collaborate on opensource Ethereum projects 
