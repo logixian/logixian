@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently learning the fundamentals,
+- 🔭 I’m currently learning the fundamentals, 
   - Cryptography
     - Discrete Logarithms
     - Bilinear Pairings
@@ -16,6 +16,7 @@
 - 🌱 I run an ETH node
 - 🌱 I am building a query engine to analyze Ethereum (PoS) on-chain data
 - 👀 I’m interested in 
+  - Networking Layer (libp2p, Kademila DHT) 
   - Data Availability
   - Restaking
   - L2 Rollups 
