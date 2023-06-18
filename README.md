@@ -1,21 +1,14 @@
 ### Hi there 👋
 
-- 🔭 I’m currently learning the fundamentals, 
-  - Cryptography
-    - Discrete Logarithms
-    - Bilinear Pairings
-    - ECC 
-    - ECDSA
-  - Implementing the above primitives in go and rust
-  - Zero-Knowledge Proofs
-    - ZK-SNARKs: PLONK
-    - STARK: FRI
-    - Linear PCPs
-    - Recursive SNARKs
-  - Practicing zk-circuits for cryptographic primitives using Circom, gnark and halo2 and benchmarking them
-- 🌱 I run an ETH node
-- 🌱 I am building a query engine to analyze Ethereum (PoS) on-chain data
-- 👀 I’m interested in 
+- 🔭 I’m currently focusing on the fundamentals of ethereum and cryptography, 
+  - Cryptography:
+    - Discrete Logarithms, Bilinear Pairings, ECC, ECDSA
+    - Implementing the above primitives in go and rust
+  - Zero-Knowledge Proofs: 
+    - ZK-SNARKs: Groth16, PLONK, STARK: FRI, Linear PCPs, Recursive SNARKs, Folding Schemes, MSM
+    - Practicing zk-circuits for cryptographic primitives using Circom, gnark and halo2 and benchmarking them
+- 🌱 I run an ETH node using my local server Geth (EL) + Lighthouse (CL)
+- 👀 I’m looking to learn more about ethereum primitives,
   - Networking Layer (libp2p, Kademila DHT) 
   - Data Availability
   - Restaking
